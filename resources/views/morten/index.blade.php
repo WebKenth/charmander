@@ -3,4 +3,5 @@
 
 @section('content')
     Hej Morten
+    Hej Martin
 @endsection
